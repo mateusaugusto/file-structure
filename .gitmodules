@@ -1,0 +1,15 @@
+[submodule "file-client"]
+	path = file-client
+	url = https://github.com/mateusaugusto/file-client
+[submodule "file-service-commons"]
+	path = file-service-commons
+	url = https://github.com/mateusaugusto/file-service-commons
+[submodule "file-service-server"]
+	path = file-service-server
+	url = https://github.com/mateusaugusto/file-service-server
+[submodule "file-service"]
+	path = file-service
+	url = https://github.com/mateusaugusto/file-service-communication
+[submodule "oauth2-jwt"]
+	path = oauth2-jwt
+	url = git@github.com:mateusaugusto/oauth2-jwt.git
